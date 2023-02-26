@@ -1,6 +1,6 @@
 # imageview
 
-Um aplicativo para visualização de imagens
+Um aplicativo para visualização de imagens feito para Android TV
 
 ## Getting Started
 
